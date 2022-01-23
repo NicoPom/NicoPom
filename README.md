@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Anguluth
+- 👋 Hi, I’m @Nico Pom
 - 🌱 I’m currently learning front end web dev
